@@ -1,0 +1,25 @@
+{
+  "name": "random-numbers-in-between",
+  "version": "1.0.0",
+  "description": "Generate random numbers in between the values specified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prithivraj200/random-numbers-range.git"
+  },
+  "keywords": [
+    "random",
+    "between",
+    "range"
+  ],
+  "author": "Prithivraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prithivraj200/random-numbers-range/issues"
+  },
+  "homepage": "https://github.com/Prithivraj200/random-numbers-range#readme",
+  "devDependencies": {}
+}
