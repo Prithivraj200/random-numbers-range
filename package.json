@@ -1,6 +1,6 @@
 {
   "name": "random-numbers-in-between",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate random numbers in between the values specified",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "range"
   ],
   "author": "Prithivraj",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Prithivraj200/random-numbers-range/issues"
   },
